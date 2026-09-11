@@ -4,12 +4,12 @@
 }
 
 body {
-    background-color: #0E1014;
+    background-color: #FFF;
+    color: #000;
 }
 
 h1 {
     font-size: 40px;
-    color: #fff;
 }
 
 p {
